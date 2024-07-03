@@ -1,0 +1,6 @@
+Titluri pentru carduri:
+    Western Desert
+    AI Bagawat
+    Pyramid Of Giza
+    Kalahari Desert
+    -> Lorem ipsum dolor sit amet consectetur adipisicing elit.
